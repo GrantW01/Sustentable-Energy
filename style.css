@@ -1,0 +1,82 @@
+/* Add a black background color to the top navigation */
+.container {
+  background-color: #013EBB;
+  
+}
+
+body {
+  background-color: #ABF5FB;
+}
+
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #72AF1c;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #F7FEFF;
+  color: #ABF5FB;
+}
+
+/* Add a color to the active/current link */
+.se-lt-green {
+  background-color: #72AF1c;
+  color: #F7FEFF;
+}
+
+.bg-se-blue {
+  background-color: #013EBB;
+  color: #F7FEFF;
+
+}
+
+.bg-se-lt-blue {
+  background-color: #ABF5FB;
+  color: #131D1C 
+  }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.related {
+  
+  background-color: #72AF1C;
+  color: #F7FEFF;
+  border-radius: 25px;
+  width: 700px;
+  margin: auto;
+  font-size: 1.5em;
+  }
+
+.related-header {
+  color: #131D1C;
+  border-radius: 10px;
+  margin: auto;
+  text-align: center;
+  font-size: 5em;
+  container:fluid;
+}
+.contact-body{
+  background-color: #ABF5FB;
+}
+
+.container {
+  background-color: #ABF5FB;
+  border-radius: 15px;
+  margin: auto;
+}
+/* se-blue #013EBB */
+/* se-lt-blue #ABF5FB */
+/* se-green #72AF1C */
+/* se-white #F&FEFF */
+/* se-black #131D1C */
